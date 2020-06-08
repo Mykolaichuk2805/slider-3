@@ -1,0 +1,19 @@
+.nav {
+  display: inline-block;
+}
+.nav-item {
+  font-family: "Times New Roman";
+  font-size: 20px;
+  line-height: 29px;
+  margin: 0 19px;
+  padding-bottom: 6px;
+  color: black;
+}
+
+.nav-item:hover {
+  color: blue;
+  text-decoration: none;
+}
+.nav-item.is-active {
+  border-bottom: 1px solid blue;
+}

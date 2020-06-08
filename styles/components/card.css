@@ -1,0 +1,28 @@
+.card {
+  border-radius: 9px;
+  background-color: white;
+  margin: 5px 12px;
+}
+
+.card-title {
+  font-size: 20px;
+  line-height: 45px;
+  letter-spacing: 1.2px;
+}
+
+.card-body {
+  padding: 5px 10px;
+  text-align: left;
+}
+
+.card-eveling {
+  padding: 19px;
+}
+
+.card-image.large > img {
+  height: 675px;
+}
+
+.card-image.small > img {
+  height: 270px;
+}
